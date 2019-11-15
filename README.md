@@ -9,7 +9,8 @@
     <p><a href="https://heroku.com/deploy?template=https://github.com/MadeByMike/keystone-jamstack-plus">Deploy Supermaya with Keystone</a> to allow user generated content. <br>(following instructions during installation to connect the API).</p>
     <br>
     <br>
-    
+    <p><a href="https://app.forestry.io/quick-start?repo=forestryio/supermaya&engine=other&branch=forestry">
+    <img alt="Import this project into Forestry" src="https://assets.forestry.io/import-to-forestryK.svg" /></p>
 </div>
     
 It comes with all the blog standard features:
