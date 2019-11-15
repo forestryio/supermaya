@@ -65,7 +65,7 @@ module.exports = function(config) {
 
   /* Forestry instant previews */
   if( process.env.ELEVENTY_ENV == "development" ) {
-    eleventyConfig.setBrowserSyncConfig({
+    config.setBrowserSyncConfig({
       host: "0.0.0.0"
     });
   }
